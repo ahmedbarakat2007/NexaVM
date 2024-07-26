@@ -18,14 +18,9 @@ VT-X Must be Enabled From Bios
 # How to run
 
 1)First Download Python 3 from https://python.org and make sure you enable "Add to PATH" option
-2)type 
-    ,,,"git clone https://github.com/ahmedbarakat2007/NexaVM",,,
-then    
-    ,,,"https://github.com/ahmedbarakat2007/NexaVM",,,
-in cmd
+2)type "git clone https://github.com/ahmedbarakat2007/NexaVM" then "https://github.com/ahmedbarakat2007/NexaVM" in cmd
 3)copy utils and bios directory from the "Beta Build 4" version after you install it separetly to the NexaVM dir
-4)open the NexaVM directory and type
-    ,,,"flet run main.py",,, 
+4)open the NexaVM directory and type "flet run main.py"
 
 Special Thanks to QEMU Team for Maing Such Projects Possible
 

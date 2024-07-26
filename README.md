@@ -28,7 +28,7 @@ VT-X Must be Enabled From Bios
 
 4)open the NexaVM directory and type ```flet run main.py```
 
-Special Thanks to QEMU Team for Maing Such Projects Possible
+# Special Thanks to QEMU Team for Maing Such Projects Possible
 
 and sorry for that the source code is not available due to it being deleted so i will appreciate you decompile it and send it to me so i can continue working on it :(
 

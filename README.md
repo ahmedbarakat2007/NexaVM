@@ -7,8 +7,11 @@ a Virtual Machine Program for Windows based on QEMU
 # Requirements
 
 Windows 10, 11
+
 2GHZ Dual Core CPU
+
 4GB Rams
+
 VT-X Must be Enabled From Bios
 
 # ScreenShot
